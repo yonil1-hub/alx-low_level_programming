@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x17. C - Doubly linked lists
 =============================
 
@@ -1423,3 +1424,6 @@ julien@ubuntu:~/0x17. Doubly linked lists$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x17-doubly_linked_lists`
 -   File: `8-delete_dnodeint.c`
+=======
+This is a README for my 0x17-doubly_linked_lists project!
+>>>>>>> 8d4298a42810832aa0ab7c054d9a09fb6147afc6
